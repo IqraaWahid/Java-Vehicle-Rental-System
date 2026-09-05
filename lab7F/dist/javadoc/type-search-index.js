@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"labs.lab7","l":"Car"},{"p":"labs.lab7","l":"Insurable"},{"p":"labs.lab7","l":"Rentable"},{"p":"labs.lab7","l":"RentalContract"},{"p":"labs.lab7","l":"RentalService"},{"p":"labs.lab7","l":"Truck"},{"p":"labs.lab7","l":"Vehicle"}];updateSearchResults();
